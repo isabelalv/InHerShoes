@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">In Her Shoes</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="welcome">You are a young woman, 17 and just growing into your skin. You’re graduating high school soon and are facing down one of the biggest decisions of your life: what you’ll do with it. Will you be a teacher, like your mother who taught you to read? Or will you go into medicine, where you will always have a job? Maybe you’ll live on the cutting edge and go into tech? Or what if followed your dreams of becoming a star?  \nAll throughout your life you’ve been given dolls and playhouses for toys-- never much in the way of video games or sports equipment. You played house and school and were afraid of getting dirty when you were young. When you got older you were involved in theater and music, and volunteered in hospitals over the summer. Your first job was babysitting when you were 13. In school, you really excelled at programming, but by no means thought of yourself as a “tech wizard” or anything like that.  What will you do?  \nA- Medicine \nB- Tech \nC- Education \nD- Entertainment </string>
+    <string name="situation">situation</string>
+    <string name="results">results</string>
+    <string name="ok">OK</string>
+
+</resources>
